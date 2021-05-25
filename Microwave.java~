@@ -1,6 +1,0 @@
-public class Microwave
-{
-  private String string;
-  private String encoded;
-  private String[] Code;
-}
