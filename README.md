@@ -1,8 +1,7 @@
 # microwave-code
 A1Z26 to Microwave Code
-First put letters into A1Z26 format with '-' as the space for letters and words.
-The code can not do spaces so you will have to add them yourself.
+First put letters into A1Z26 format with '-' as the space for letters and '--' inbetween words.
 Examples-
-hi - 08-09
-microwave - 13-09-03-18-15-23-01-22-05
-hey there - 08-05-25-20-08-05-18-05
+hi - 8-9
+microwave - 13-9-3-18-15-23-1-22-5
+hey there - 8-5-25--20-8-5-18-5
