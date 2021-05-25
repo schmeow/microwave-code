@@ -1,7 +1,13 @@
+import java.util.Scanner;
+
 class MicrowaveTester
 {
   public static void main(String args[])
   {
-    Microwave hi = new Microwave("9-0-3-15-21-12-4-0-21-19-5-0-1-0-12-9-20-20-12-5-0-6-21-5-12-0-13-25-19-5-12-6-0-1-14-4-0-23-5-0-3-15-21-12-4-0-1-12-12-0-21-19-5-0-1-0-12-9-20-20-12-5-0-3-8-1-14-7-5");
+    Scanner myObj = new Scanner(System.in);
+    System.out.println("Enter string");
+    
+    String string = myObj.nextLine(); 
+    Microwave code = new Microwave(string);
   }
 }
